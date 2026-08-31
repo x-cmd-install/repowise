@@ -1,0 +1,66 @@
+about:
+  description: Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
+  license: AGPL-3.0
+  homepage: https://repowise.dev
+  head: 361a764
+  archived: false
+  latestVersion: v0.47.0
+  collectedAt: 2026-08-31T05:22:39Z
+timeline:
+  created: 2026-03-23
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-30
+popularity:
+  star: 6270
+  watcher: 28
+  fork: 675
+  release: 64
+  contributor: 83
+  pullRequest: 228
+  issue: 316
+language:
+  Python: 22775375
+  TypeScript: 6169049
+  Tree-sitter Query: 116375
+  Jinja: 75136
+  CSS: 45310
+  Shell: 6357
+  JavaScript: 4758
+  Makefile: 4049
+  Dockerfile: 3833
+  Mako: 671
+  Ruby: 135
+totalLine: 29201048
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 10
+    mergedPR: 522
+    openPR: 85
+    closedIssue: 95
+    openIssue: 53
+    commit: 467
+  last90d:
+    since: 2026-06-02
+    release: 34
+    mergedPR: 1214
+    openPR: 99
+    closedIssue: 200
+    openIssue: 74
+    commit: 1160
+  last180d:
+    since: 2026-03-04
+    release: 64
+    mergedPR: 1474
+    openPR: 104
+    closedIssue: 235
+    openIssue: 81
+    commit: 1498
+  last360d:
+    since: 2025-09-05
+    release: 64
+    mergedPR: 1474
+    openPR: 104
+    closedIssue: 235
+    openIssue: 81
+    commit: 1498
