@@ -1,28 +1,30 @@
 about:
-  description: Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
+  description:
+  |
+    Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
   license: AGPL-3.0
   homepage: https://repowise.dev
-  head: cdbb68e
+  head: eb4010c
   archived: false
   latestVersion: v0.48.0
-  collectedAt: 2026-09-04T04:21:10Z
+  collectedAt: 2026-09-04T19:28:49Z
 timeline:
   created: 2026-03-23
   lastCommit: 2026-09-04
   lastRelease: 2026-09-02
 popularity:
-  star: 6320
+  star: 6336
   watcher: 28
-  fork: 677
+  fork: 680
   release: 65
-  contributor: 86
-  pullRequest: 232
-  issue: 330
+  contributor: 88
+  pullRequest: 1777
+  issue: 333
 language:
-  Python: 23649839
-  TypeScript: 6368162
-  Tree-sitter Query: 116375
-  Jinja: 83841
+  Python: 24709634
+  TypeScript: 6456324
+  Tree-sitter Query: 158469
+  Jinja: 85294
   CSS: 45561
   Shell: 6357
   JavaScript: 4758
@@ -30,37 +32,63 @@ language:
   Dockerfile: 3833
   Mako: 671
   Ruby: 135
-totalLine: 30283581
+totalBytes: 31475085
 recent:
   last30d:
     since: 2026-08-05
     release: 10
-    mergedPR: 507
-    openPR: 89
-    closedIssue: 99
-    openIssue: 52
-    commit: 515
+    mergedPR: 537
+    openPR: 81
+    closedIssue: 104
+    openIssue: 50
+    commit: 544
+  last60d:
+    since: 2026-07-06
+    release: 22
+    mergedPR: 1032
+    openPR: 92
+    closedIssue: 176
+    openIssue: 58
+    commit: 1027
   last90d:
     since: 2026-06-06
     release: 34
-    mergedPR: 1214
-    openPR: 102
-    closedIssue: 204
-    openIssue: 71
-    commit: 1208
+    mergedPR: 1244
+    openPR: 94
+    closedIssue: 213
+    openIssue: 65
+    commit: 1237
   last180d:
     since: 2026-03-08
     release: 65
-    mergedPR: 1522
-    openPR: 107
-    closedIssue: 251
-    openIssue: 79
-    commit: 1546
+    mergedPR: 1552
+    openPR: 99
+    closedIssue: 261
+    openIssue: 72
+    commit: 1575
   last360d:
     since: 2025-09-09
     release: 65
-    mergedPR: 1522
-    openPR: 107
-    closedIssue: 251
-    openIssue: 79
-    commit: 1546
+    mergedPR: 1552
+    openPR: 99
+    closedIssue: 261
+    openIssue: 72
+    commit: 1575
+  last720d:
+    since: 2024-09-14
+    release: 65
+    mergedPR: 1552
+    openPR: 99
+    closedIssue: 261
+    openIssue: 72
+    commit: 1583
+total:
+  release: 65
+  mergedPR: 1552
+  openPR: 99
+  closedIssue: 261
+  openIssue: 72
+  commit: 1583
+---
+---
+
