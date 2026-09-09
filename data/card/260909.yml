@@ -2,28 +2,28 @@ about:
   description: "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP."
   license: AGPL-3.0
   homepage: https://repowise.dev
-  head: ce350d1
+  head: 920d1c9
   archived: false
   latestVersion: "v0.49.0"
   latestRelease: "v0.49.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:55:11Z
+  collectedAt: 2026-09-09T20:15:19Z
 timeline:
   created: 2026-03-23
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-05
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 6383
+  star: 6387
   watcher: 28
   fork: 682
   release: 66
   contributor: 90
-  pullRequest: 1801
-  issue: 350
+  pullRequest: 1809
+  issue: 351
 language:
-  Python: 24923402
+  Python: 24968901
   TypeScript: 6482708
   Tree-sitter Query: 158469
   Jinja: 85294
@@ -34,72 +34,72 @@ language:
   Dockerfile: 3833
   Mako: 671
   Ruby: 135
-totalBytes: 31715237
+totalBytes: 31760736
 recent:
   last30d:
     since: 2026-08-10
     release: 10
-    mergedPR: 496
-    openPR: 73
-    closedIssue: 106
+    mergedPR: 498
+    openPR: 79
+    closedIssue: 107
     openIssue: 50
-    commit: 443
+    commit: 445
   last60d:
     since: 2026-07-11
     release: 19
-    mergedPR: 984
-    openPR: 86
-    closedIssue: 182
+    mergedPR: 986
+    openPR: 92
+    closedIssue: 183
     openIssue: 58
-    commit: 955
+    commit: 957
   last90d:
     since: 2026-06-11
     release: 32
-    mergedPR: 1242
-    openPR: 88
-    closedIssue: 216
+    mergedPR: 1244
+    openPR: 94
+    closedIssue: 217
     openIssue: 65
-    commit: 1225
+    commit: 1227
   last180d:
     since: 2026-03-13
     release: 66
-    mergedPR: 1579
-    openPR: 93
-    closedIssue: 278
+    mergedPR: 1581
+    openPR: 99
+    closedIssue: 279
     openIssue: 72
-    commit: 1602
+    commit: 1604
   last360d:
     since: 2025-09-14
     release: 66
-    mergedPR: 1579
-    openPR: 93
-    closedIssue: 278
+    mergedPR: 1581
+    openPR: 99
+    closedIssue: 279
     openIssue: 72
-    commit: 1602
+    commit: 1604
   last720d:
     since: 2024-09-19
     release: 66
-    mergedPR: 1579
-    openPR: 93
-    closedIssue: 278
+    mergedPR: 1581
+    openPR: 99
+    closedIssue: 279
     openIssue: 72
-    commit: 1610
+    commit: 1612
 total:
   release: 66
-  mergedPR: 1579
-  openPR: 93
-  closedIssue: 278
+  mergedPR: 1581
+  openPR: 99
+  closedIssue: 279
   openIssue: 72
-  commit: 1610
+  commit: 1612
 ---
 path: /home/runner/.x-repo/github.com/repowise-dev/repowise
-collectedAt: 2026-09-09T05:55:22Z
+collectedAt: 2026-09-09T20:15:28Z
 loc:
   Python:
-    code: 506169
-    comments: 45357
-    blanks: 91256
-    files: 2585
+    code: 507024
+    comments: 45395
+    blanks: 91500
+    files: 2595
   Tsx:
     code: 101445
     comments: 11853
@@ -277,7 +277,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 30699
+    comments: 30702
     blanks: 9494
     files: 185
   Text:
@@ -286,10 +286,10 @@ loc:
     blanks: 809
     files: 24
 total:
-  code: 698806
-  comments: 112727
-  blanks: 116856
-  files: 4360
+  code: 699661
+  comments: 112768
+  blanks: 117100
+  files: 4370
 ---
 
 ---
