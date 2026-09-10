@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.49.0"
   latestRelease: "v0.49.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:51:39Z
+  collectedAt: 2026-09-10T23:53:28Z
 timeline:
   created: 2026-03-23
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 6395
+  star: 6400
   watcher: 28
   fork: 684
   release: 66
@@ -93,7 +93,7 @@ total:
   commit: 1617
 ---
 path: /home/runner/.x-repo/github.com/repowise-dev/repowise
-collectedAt: 2026-09-10T17:51:49Z
+collectedAt: 2026-09-10T23:53:36Z
 loc:
   Python:
     code: 508531
