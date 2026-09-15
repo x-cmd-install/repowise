@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 36759999,
       "digest": "sha256:d99e8f858627198837faf1fadeff8e7557c27a8b57dcc2c7b1fbd737adaf7f7b",
-      "download_count": 79,
+      "download_count": 129,
       "created_at": "2026-09-11T19:03:01Z",
       "updated_at": "2026-09-11T19:03:02Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.50.0/repowise-web.tar.gz"
