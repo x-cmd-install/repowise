@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5066114,
       "digest": "sha256:99f8c925cdb514266db69c1cb1c9b68f85de1c6cc83778d4b600539d8dee4e0d",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-16T15:15:36Z",
       "updated_at": "2026-09-16T15:15:37Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.51.0/repowise-0.51.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4263478,
       "digest": "sha256:8a139aa95014ac862df38856104beb7956d6c185d5558abbd4b2c371f51ad3ec",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T15:15:36Z",
       "updated_at": "2026-09-16T15:15:37Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.51.0/repowise-0.51.0.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 36759727,
       "digest": "sha256:3c7cb31b5dac7d7c79c0bbc51b025572b8078af48000267926c8e1ede4f4fe29",
-      "download_count": 26,
+      "download_count": 74,
       "created_at": "2026-09-16T15:15:36Z",
       "updated_at": "2026-09-16T15:15:38Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.51.0/repowise-web.tar.gz"
@@ -150,14 +150,14 @@
   "body": "## What's Changed\n* Benchmark scope selection cost by @Aman-goel-04 in https://github.com/repowise-dev/repowise/pull/2145\n* feat(workspace): extract bounded OpenAPI schemas by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2227\n* feat(generation): improve onboarding evidence and grounding by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2228\n* feat(workspace): compare OpenAPI schemas directionally by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2229\n* feat(workspace): resolve local Maven package dependencies by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2231\n* fix(update): reconcile config-driven index changes by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2235\n* fix(index): persist analyzed symbol complexity by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2236\n* feat(indexing): make Git history sampling reliable by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2244\n* feat(ingestion): add COBOL language support by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/1770\n* feat(indexing): make fast and full scope truthful by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2246\n* fix(ci): restore deterministic Python checks by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2250\n* fix(ui): raise floating layers above modals so selects open in front by @jgt87 in https://github.com/repowise-dev/repowise/pull/2173\n* fix(ingestion): warn when a language query fails to compile (#2166) by @rishu685 in https://github.com/repowise-dev/repowise/pull/2177\n* fix(server): register workspace members and fan-out search on shared database (#2138) by @rishu685 in https://github.com/repowise-dev/repowise/pull/2195\n* fix(cli): warn Windows users before upgrading by @roian6 in https://github.com/repowise-dev/repowise/pull/2204\n* fix(augment): gate the rescue's FTS fallback on query-token coverage (#2092) by @punk-dev-robot in https://github.com/repowise-dev/repowise/pull/2214\n* fix(ui): clamp generation progress percentages by @akkupratap323 in https://github.com/repowise-dev/repowise/pull/2224\n* fix(cli): honor editor_files opt-outs during init and update by @z2Ace0107 in https://github.com/repowise-dev/repowise/pull/2226\n* Fix API client handling of 204 No Content responses by @Selene29 in https://github.com/repowise-dev/repowise/pull/2237\n* Match Kimi K2 and K3 reasoning contracts by @Selene29 in https://github.com/repowise-dev/repowise/pull/2238\n* Fix DeepSeek thinking controls and effort mapping by @Selene29 in https://github.com/repowise-dev/repowise/pull/2239\n* fix(reindex): bound failed batch recovery by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2251\n* fix(ci): stabilize MCP reference inventory cap by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2256\n* fix(ui): contain long AI prompts inside modal by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2249\n* test: isolate cross-tool omission inventory by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2258\n* fix(indexing): make stale-page recovery converge by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2254\n* refactor(analysis): separate change-analysis semantics from git and transport by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2263\n* refactor(risk): score the range endpoint through the shared facade by @RaghavChamadiya in https://github.com/repowise-dev/repowise/pull/2268\n* release: v0.51.0 — an index that says what it actually covers by @swati510 in https://github.com/repowise-dev/repowise/pull/2269\n\n## New Contributors\n* @roian6 made their first contribution in https://github.com/repowise-dev/repowise/pull/2204\n* @punk-dev-robot made their first contribution in https://github.com/repowise-dev/repowise/pull/2214\n* @akkupratap323 made their first contribution in https://github.com/repowise-dev/repowise/pull/2224\n* @z2Ace0107 made their first contribution in https://github.com/repowise-dev/repowise/pull/2226\n\n**Full Changelog**: https://github.com/repowise-dev/repowise/compare/v0.50.0...v0.51.0",
   "reactions": {
     "url": "https://api.github.com/repos/repowise-dev/repowise/releases/390038635/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 1,
+    "rocket": 2,
     "eyes": 0
   },
   "mentions_count": 10
