@@ -4,7 +4,7 @@
 
 Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 
-[![x-cmd/install — repowise Code Quality Monitoring Repo Card](https://repo.x-cmd.io/repowise.svg)](https://x-cmd.com/install/repowise)
+[![x-cmd/install — repowise Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/repowise.svg)](https://x-cmd.com/install/repowise)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install repowise
 
 ## Code insight
 
-Total: **761,298** lines of code across **4234** files in the top 5 languages.
+Total: **762,745** lines of code across **4248** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 562,136 | 50,171 | 101,759 | 2794 |
-| Tsx | 107,285 | 12,918 | 9,013 | 804 |
-| TypeScript | 45,360 | 10,138 | 5,316 | 501 |
-| Json | 38,215 | 0 | 0 | 110 |
+| Python | 564,312 | 50,215 | 102,171 | 2813 |
+| Tsx | 111,265 | 13,072 | 9,214 | 817 |
+| TypeScript | 46,095 | 10,264 | 5,404 | 508 |
+| Json | 32,771 | 0 | 0 | 85 |
 | Scheme | 2,273 | 1,650 | 626 | 25 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **761,298** lines of code across **4234** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.52.0` (2026-09-20)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-23
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 6,852 · **Forks**: 729 · **Open issues**: 405 · **Contributors**: 96
+- **Stars**: 6,950 · **Forks**: 731 · **Open issues**: 405 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 1779 · **Open PRs**: 126 · **Closed issues**: 325 · **Open issues**: 80 · **Commits**: 1810
+- **Releases**: 69 · **Merged PRs**: 1786 · **Open PRs**: 125 · **Closed issues**: 326 · **Open issues**: 79 · **Commits**: 1818
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 7 | 372 | 84 | 62 | 47 | 378 |
-| last60d | 2026-07-24 | 18 | 963 | 122 | 193 | 64 | 905 |
-| 90d | 2026-06-24 | 30 | 1332 | 123 | 251 | 73 | 1305 |
-| last180d | 2026-03-26 | 69 | 1779 | 126 | 325 | 80 | 1754 |
-| 360d | 2025-09-27 | 69 | 1779 | 126 | 325 | 80 | 1802 |
-| last720d | 2024-10-02 | 69 | 1779 | 126 | 325 | 80 | 1810 |
+| 30d | 2026-08-24 | 7 | 370 | 83 | 60 | 46 | 0 |
+| last60d | 2026-07-25 | 17 | 954 | 121 | 191 | 63 | 0 |
+| 90d | 2026-06-25 | 30 | 1326 | 122 | 251 | 72 | 0 |
+| last180d | 2026-03-27 | 69 | 1786 | 125 | 326 | 79 | 0 |
+| 360d | 2025-09-28 | 69 | 1786 | 125 | 326 | 79 | 0 |
+| last720d | 2024-10-03 | 69 | 1786 | 125 | 326 | 79 | 1818 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for repowise lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:14:00Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:22:01Z._
