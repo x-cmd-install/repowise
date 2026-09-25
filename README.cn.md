@@ -14,11 +14,11 @@ x install repowise
 
 ## 代码洞察
 
-合计: **783,278** 行代码（覆盖前 5 种语言、共 **4323** 个文件）。
+合计: **784,510** 行代码（覆盖前 5 种语言、共 **4327** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 579,611 | 50,602 | 104,695 | 2882 |
+| Python | 580,843 | 50,753 | 104,880 | 2886 |
 | Tsx | 111,530 | 13,100 | 9,216 | 814 |
 | TypeScript | 47,272 | 10,638 | 5,507 | 513 |
 | Json | 36,559 | 0 | 0 | 89 |
@@ -32,36 +32,36 @@ x install repowise
 
 ## 发布
 
-- **最新版本**: `v0.52.0` (2026-09-20)
+- **最新版本**: `v0.53.0` (2026-09-24)
 - **最近提交**: 2026-09-24
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 6,994 · **Fork**: 735 · **开放 issue**: 407 · **贡献者**: 96
+- **Star**: 7,020 · **Fork**: 737 · **开放 issue**: 413 · **贡献者**: 97
 
 ## 累计统计
 
-- **发布数**: 69 · **已合并 PR**: 1813 · **开放 PR**: 125 · **已关闭 issue**: 328 · **开放 issue**: 79 · **提交数**: 1845
+- **发布数**: 70 · **已合并 PR**: 1825 · **开放 PR**: 118 · **已关闭 issue**: 336 · **开放 issue**: 77 · **提交数**: 1855
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 7 | 387 | 83 | 60 | 46 | 412 |
-| last60d | 2026-07-26 | 16 | 963 | 119 | 189 | 62 | 939 |
-| 90d | 2026-06-26 | 29 | 1350 | 122 | 253 | 72 | 1339 |
-| last180d | 2026-03-28 | 69 | 1812 | 125 | 328 | 79 | 1788 |
-| 360d | 2025-09-29 | 69 | 1813 | 125 | 328 | 79 | 1836 |
-| last720d | 2024-10-04 | 69 | 1813 | 125 | 328 | 79 | 1845 |
+| 30d | 2026-08-26 | 8 | 393 | 76 | 67 | 42 | 422 |
+| last60d | 2026-07-27 | 17 | 956 | 110 | 192 | 60 | 949 |
+| 90d | 2026-06-27 | 30 | 1353 | 115 | 260 | 69 | 1349 |
+| last180d | 2026-03-29 | 68 | 1820 | 118 | 336 | 77 | 1798 |
+| 360d | 2025-09-30 | 70 | 1825 | 118 | 336 | 77 | 1846 |
+| last720d | 2024-10-05 | 70 | 1825 | 118 | 336 | 77 | 1855 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [repowise-0.52.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.52.0/repowise-0.52.0-py3-none-any.whl) | 5.1 MiB | `other` |
-| [repowise-0.52.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.52.0/repowise-0.52.0.tar.gz) | 4.3 MiB | `native/unknown` |
-| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.52.0/repowise-web.tar.gz) | 35.1 MiB | `native/unknown` |
+| [repowise-0.53.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-0.53.0-py3-none-any.whl) | 5.3 MiB | `other` |
+| [repowise-0.53.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-0.53.0.tar.gz) | 4.5 MiB | `native/unknown` |
+| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-web.tar.gz) | 35.2 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ repowise 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260924.yml` · 2026-09-24T05:45:10Z._
+_数据快照: `data/card/260925.yml` · 2026-09-25T06:01:59Z._
