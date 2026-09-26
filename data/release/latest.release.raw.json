@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5557498,
       "digest": "sha256:e63dcf6f7d6deed5d512662b5a328417ec9d9b5407d650abeb943afc02fa22c1",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-24T09:33:08Z",
       "updated_at": "2026-09-24T09:33:08Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-0.53.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4687806,
       "digest": "sha256:7933d8553d94ae7ff461ec4d4db858592393f9c4d653c6f3cfa349697c215c0a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-24T09:33:08Z",
       "updated_at": "2026-09-24T09:33:08Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-0.53.0.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 36874550,
       "digest": "sha256:cb9cdef0ba449e5bf8749cb757975bb4a2f976a27a6fdd0390df251cf08028c3",
-      "download_count": 41,
+      "download_count": 86,
       "created_at": "2026-09-24T09:33:08Z",
       "updated_at": "2026-09-24T09:33:10Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-web.tar.gz"
