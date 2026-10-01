@@ -14,15 +14,15 @@ x install repowise
 
 ## Code insight
 
-Total: **833,439** lines of code across **4632** files in the top 5 languages.
+Total: **839,226** lines of code across **4651** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 623,673 | 49,859 | 114,411 | 3136 |
-| Tsx | 115,284 | 13,350 | 9,490 | 837 |
-| TypeScript | 48,435 | 10,788 | 5,682 | 543 |
-| Json | 37,198 | 0 | 0 | 91 |
-| Scheme | 2,285 | 1,662 | 627 | 25 |
+| Python | 628,883 | 50,104 | 115,324 | 3153 |
+| Tsx | 115,504 | 13,380 | 9,518 | 839 |
+| TypeScript | 48,693 | 10,831 | 5,699 | 543 |
+| Json | 37,195 | 0 | 0 | 91 |
+| Scheme | 2,387 | 1,663 | 631 | 25 |
 
 ## Source
 
@@ -32,36 +32,36 @@ Total: **833,439** lines of code across **4632** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.53.0` (2026-09-24)
-- **Last commit**: 2026-09-30
+- **Latest**: `v0.54.0` (2026-09-30)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 7,105 · **Forks**: 756 · **Open issues**: 427 · **Contributors**: 97
+- **Stars**: 7,114 · **Forks**: 759 · **Open issues**: 446 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 1983 · **Open PRs**: 122 · **Closed issues**: 356 · **Open issues**: 71 · **Commits**: 2013
+- **Releases**: 71 · **Merged PRs**: 2019 · **Open PRs**: 148 · **Closed issues**: 358 · **Open issues**: 88 · **Commits**: 2049
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 6 | 445 | 71 | 72 | 34 | 0 |
-| last60d | 2026-08-01 | 16 | 1030 | 110 | 204 | 54 | 0 |
-| 90d | 2026-07-02 | 29 | 1493 | 119 | 276 | 61 | 0 |
-| last180d | 2026-04-03 | 67 | 1965 | 122 | 353 | 71 | 0 |
-| 360d | 2025-10-05 | 70 | 1983 | 122 | 356 | 71 | 0 |
-| last720d | 2024-10-10 | 70 | 1983 | 122 | 356 | 71 | 2013 |
+| 30d | 2026-09-01 | 7 | 477 | 97 | 74 | 51 | 495 |
+| last60d | 2026-08-02 | 17 | 1050 | 136 | 203 | 71 | 1031 |
+| 90d | 2026-07-03 | 30 | 1519 | 145 | 271 | 77 | 1505 |
+| last180d | 2026-04-04 | 66 | 1999 | 148 | 354 | 88 | 1970 |
+| 360d | 2025-10-06 | 71 | 2019 | 148 | 358 | 88 | 2042 |
+| last720d | 2024-10-11 | 71 | 2019 | 148 | 358 | 88 | 2049 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [repowise-0.53.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-0.53.0-py3-none-any.whl) | 5.3 MiB | `other` |
-| [repowise-0.53.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-0.53.0.tar.gz) | 4.5 MiB | `native/unknown` |
-| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.53.0/repowise-web.tar.gz) | 35.2 MiB | `native/unknown` |
+| [repowise-0.54.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.54.0/repowise-0.54.0-py3-none-any.whl) | 5.6 MiB | `other` |
+| [repowise-0.54.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.54.0/repowise-0.54.0.tar.gz) | 4.7 MiB | `native/unknown` |
+| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.54.0/repowise-web.tar.gz) | 35.2 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for repowise lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:36:25Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:53:24Z._
