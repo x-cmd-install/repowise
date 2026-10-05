@@ -14,11 +14,11 @@ x install repowise
 
 ## Code insight
 
-Total: **908,363** lines of code across **4956** files in the top 5 languages.
+Total: **908,358** lines of code across **4956** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 669,791 | 52,480 | 122,856 | 3309 |
+| Python | 669,786 | 52,480 | 122,856 | 3309 |
 | Tsx | 119,807 | 13,731 | 9,898 | 865 |
 | TypeScript | 62,329 | 12,658 | 7,490 | 638 |
 | Json | 42,118 | 0 | 0 | 132 |
@@ -38,22 +38,22 @@ Total: **908,363** lines of code across **4956** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,144 · **Forks**: 776 · **Open issues**: 483 · **Contributors**: 110
+- **Stars**: 7,154 · **Forks**: 778 · **Open issues**: 483 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 2229 · **Open PRs**: 119 · **Closed issues**: 398 · **Open issues**: 85 · **Commits**: 2259
+- **Releases**: 72 · **Merged PRs**: 2230 · **Open PRs**: 120 · **Closed issues**: 398 · **Open issues**: 85 · **Commits**: 2260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 7 | 639 | 68 | 95 | 53 | 641 |
-| last60d | 2026-08-05 | 17 | 1214 | 109 | 233 | 70 | 1135 |
-| 90d | 2026-07-06 | 29 | 1709 | 116 | 307 | 76 | 1617 |
-| last180d | 2026-04-07 | 66 | 2198 | 119 | 392 | 84 | 2161 |
-| 360d | 2025-10-09 | 72 | 2229 | 119 | 398 | 85 | 2252 |
-| last720d | 2024-10-14 | 72 | 2229 | 119 | 398 | 85 | 2259 |
+| 30d | 2026-09-05 | 7 | 635 | 69 | 91 | 53 | 642 |
+| last60d | 2026-08-06 | 16 | 1204 | 109 | 233 | 70 | 1136 |
+| 90d | 2026-07-07 | 29 | 1701 | 117 | 306 | 76 | 1618 |
+| last180d | 2026-04-08 | 65 | 2197 | 120 | 391 | 84 | 2162 |
+| 360d | 2025-10-10 | 72 | 2230 | 120 | 398 | 85 | 2253 |
+| last720d | 2024-10-15 | 72 | 2230 | 120 | 398 | 85 | 2260 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for repowise lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:47:49Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:42:27Z._
