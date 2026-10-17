@@ -33,32 +33,33 @@ x install repowise
 ## 发布
 
 - **最新版本**: `v0.57.0` (2026-10-15)
-- **最近提交**: 2026-10-15
-- **Release 含资产**: 3 个
+- **最近提交**: 2026-10-16
+- **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 7,800 · **Fork**: 897 · **开放 issue**: 723 · **贡献者**: 150
+- **Star**: 7,820 · **Fork**: 898 · **开放 issue**: 733 · **贡献者**: 150
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 2800 · **开放 PR**: 167 · **已关闭 issue**: 571 · **开放 issue**: 152 · **提交数**: 2832
+- **发布数**: 74 · **已合并 PR**: 2801 · **开放 PR**: 175 · **已关闭 issue**: 572 · **开放 issue**: 161 · **提交数**: 2833
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 7 | 1117 | 105 | 240 | 121 | 1133 |
-| last60d | 2026-08-17 | 14 | 1525 | 154 | 340 | 134 | 1530 |
-| 90d | 2026-07-18 | 25 | 2106 | 164 | 446 | 142 | 2105 |
-| last180d | 2026-04-19 | 63 | 2751 | 165 | 562 | 149 | 2733 |
-| 360d | 2025-10-21 | 74 | 2800 | 167 | 571 | 152 | 2824 |
-| last720d | 2024-10-26 | 74 | 2800 | 167 | 571 | 152 | 2832 |
+| 30d | 2026-09-17 | 6 | 1095 | 111 | 227 | 128 | 1134 |
+| last60d | 2026-08-18 | 14 | 1503 | 162 | 331 | 143 | 1531 |
+| 90d | 2026-07-19 | 24 | 2089 | 172 | 445 | 150 | 2106 |
+| last180d | 2026-04-20 | 63 | 2751 | 173 | 563 | 157 | 2734 |
+| 360d | 2025-10-22 | 74 | 2801 | 175 | 572 | 161 | 2825 |
+| last720d | 2024-10-27 | 74 | 2801 | 175 | 572 | 161 | 2833 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
+| [openapi.json](https://github.com/repowise-dev/repowise/releases/download/v0.57.0/openapi.json) | 1.0 MiB | `other` |
 | [repowise-0.57.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.57.0/repowise-0.57.0-py3-none-any.whl) | 7.1 MiB | `other` |
 | [repowise-0.57.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.57.0/repowise-0.57.0.tar.gz) | 6.0 MiB | `native/unknown` |
 | [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.57.0/repowise-web.tar.gz) | 35.6 MiB | `native/unknown` |
@@ -72,4 +73,4 @@ repowise 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261016.yml` · 2026-10-16T05:28:57Z._
+_数据快照: `data/card/261017.yml` · 2026-10-17T05:14:20Z._
