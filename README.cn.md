@@ -14,14 +14,14 @@ x install repowise
 
 ## 代码洞察
 
-合计: **1,145,582** 行代码（覆盖前 5 种语言、共 **6142** 个文件）。
+合计: **1,161,806** 行代码（覆盖前 5 种语言、共 **6219** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 846,628 | 56,554 | 156,397 | 4164 |
-| Tsx | 137,488 | 14,936 | 11,273 | 1005 |
-| TypeScript | 74,965 | 15,220 | 8,891 | 774 |
-| Json | 70,746 | 0 | 0 | 183 |
+| Python | 860,944 | 57,075 | 159,582 | 4238 |
+| Tsx | 137,669 | 14,955 | 11,290 | 1007 |
+| TypeScript | 75,288 | 15,275 | 8,940 | 775 |
+| Json | 72,093 | 0 | 0 | 183 |
 | JavaScript | 6,359 | 377 | 242 | 16 |
 
 ## 源代码
@@ -32,37 +32,37 @@ x install repowise
 
 ## 发布
 
-- **最新版本**: `v0.57.0` (2026-10-15)
-- **最近提交**: 2026-10-20
+- **最新版本**: `v0.58.0` (2026-10-20)
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 7,859 · **Fork**: 915 · **开放 issue**: 776 · **贡献者**: 161
+- **Star**: 7,875 · **Fork**: 920 · **开放 issue**: 796 · **贡献者**: 165
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 3019 · **开放 PR**: 210 · **已关闭 issue**: 614 · **开放 issue**: 162 · **提交数**: 3049
+- **发布数**: 75 · **已合并 PR**: 3092 · **开放 PR**: 196 · **已关闭 issue**: 639 · **开放 issue**: 157 · **提交数**: 3122
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 6 | 1214 | 139 | 245 | 126 | 1194 |
-| last60d | 2026-08-21 | 13 | 1663 | 181 | 346 | 142 | 1630 |
-| 90d | 2026-07-22 | 23 | 2256 | 207 | 481 | 151 | 2177 |
-| last180d | 2026-04-23 | 63 | 2968 | 208 | 605 | 158 | 2933 |
-| 360d | 2025-10-25 | 74 | 3019 | 210 | 614 | 162 | 3042 |
-| last720d | 2024-10-30 | 74 | 3019 | 210 | 614 | 162 | 3049 |
+| 30d | 2026-09-21 | 6 | 1281 | 126 | 268 | 122 | 1267 |
+| last60d | 2026-08-22 | 13 | 1704 | 162 | 368 | 137 | 1703 |
+| 90d | 2026-07-23 | 24 | 2305 | 193 | 503 | 145 | 2250 |
+| last180d | 2026-04-24 | 64 | 3039 | 194 | 628 | 153 | 3006 |
+| 360d | 2025-10-26 | 75 | 3092 | 196 | 639 | 157 | 3115 |
+| last720d | 2024-10-31 | 75 | 3092 | 196 | 639 | 157 | 3122 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [openapi.json](https://github.com/repowise-dev/repowise/releases/download/v0.57.0/openapi.json) | 1.0 MiB | `other` |
-| [repowise-0.57.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.57.0/repowise-0.57.0-py3-none-any.whl) | 7.1 MiB | `other` |
-| [repowise-0.57.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.57.0/repowise-0.57.0.tar.gz) | 6.0 MiB | `native/unknown` |
-| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.57.0/repowise-web.tar.gz) | 35.6 MiB | `native/unknown` |
+| [openapi.json](https://github.com/repowise-dev/repowise/releases/download/v0.58.0/openapi.json) | 1.1 MiB | `other` |
+| [repowise-0.58.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.58.0/repowise-0.58.0-py3-none-any.whl) | 7.5 MiB | `other` |
+| [repowise-0.58.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.58.0/repowise-0.58.0.tar.gz) | 6.3 MiB | `native/unknown` |
+| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.58.0/repowise-web.tar.gz) | 35.7 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ repowise 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:46:27Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:46:13Z._
