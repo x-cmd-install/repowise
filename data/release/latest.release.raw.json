@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1136222,
       "digest": "sha256:4dc1721ae2835c161c007854456bf14a680ca81697d59cfd6db56a2c1eceae3a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-20T19:03:02Z",
       "updated_at": "2026-10-20T19:03:02Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.58.0/openapi.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 37458389,
       "digest": "sha256:96f40dc22edcd70170a5ee8e5751c69e59bc39803328fda4e247bc76be64b255",
-      "download_count": 64,
+      "download_count": 126,
       "created_at": "2026-10-20T19:02:06Z",
       "updated_at": "2026-10-20T19:02:07Z",
       "browser_download_url": "https://github.com/repowise-dev/repowise/releases/download/v0.58.0/repowise-web.tar.gz"
