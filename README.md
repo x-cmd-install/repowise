@@ -14,14 +14,14 @@ x install repowise
 
 ## Code insight
 
-Total: **1,207,614** lines of code across **6406** files in the top 5 languages.
+Total: **1,226,754** lines of code across **6516** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 899,310 | 58,949 | 166,365 | 4415 |
-| Tsx | 138,053 | 14,984 | 11,322 | 1011 |
-| Json | 77,560 | 0 | 2 | 187 |
-| TypeScript | 75,539 | 15,342 | 8,952 | 777 |
+| Python | 908,537 | 59,486 | 167,875 | 4443 |
+| Tsx | 140,784 | 15,215 | 11,538 | 1034 |
+| TypeScript | 81,099 | 16,327 | 9,611 | 834 |
+| Json | 79,101 | 0 | 2 | 189 |
 | JavaScript | 6,359 | 377 | 242 | 16 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **1,207,614** lines of code across **6406** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.58.0` (2026-10-20)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 7,893 · **Forks**: 942 · **Open issues**: 861 · **Contributors**: 165
+- **Stars**: 7,901 · **Forks**: 946 · **Open issues**: 866 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 3210 · **Open PRs**: 251 · **Closed issues**: 639 · **Open issues**: 222 · **Commits**: 3240
+- **Releases**: 75 · **Merged PRs**: 3284 · **Open PRs**: 237 · **Closed issues**: 677 · **Open issues**: 189 · **Commits**: 3314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 6 | 1359 | 181 | 265 | 186 | 1385 |
-| last60d | 2026-08-25 | 13 | 1779 | 217 | 358 | 201 | 1821 |
-| 90d | 2026-07-26 | 22 | 2360 | 247 | 495 | 209 | 2368 |
-| last180d | 2026-04-27 | 62 | 3146 | 249 | 628 | 218 | 3124 |
-| 360d | 2025-10-29 | 75 | 3210 | 251 | 639 | 222 | 3233 |
-| last720d | 2024-11-03 | 75 | 3210 | 251 | 639 | 222 | 3240 |
+| 30d | 2026-09-25 | 5 | 1431 | 168 | 300 | 153 | 0 |
+| last60d | 2026-08-26 | 13 | 1847 | 204 | 393 | 169 | 0 |
+| 90d | 2026-07-27 | 22 | 2415 | 230 | 529 | 176 | 0 |
+| last180d | 2026-04-28 | 62 | 3219 | 234 | 666 | 185 | 0 |
+| 360d | 2025-10-30 | 75 | 3284 | 236 | 677 | 189 | 0 |
+| last720d | 2024-11-04 | 75 | 3284 | 236 | 677 | 189 | 3314 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for repowise lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:29:06Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:35:09Z._
