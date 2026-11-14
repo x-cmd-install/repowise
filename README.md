@@ -14,13 +14,13 @@ x install repowise
 
 ## Code insight
 
-Total: **1,400,249** lines of code across **7204** files in the top 5 languages.
+Total: **1,404,030** lines of code across **7212** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,039,447 | 64,637 | 194,412 | 4931 |
-| Tsx | 156,709 | 16,729 | 12,806 | 1142 |
-| Json | 93,888 | 0 | 2 | 194 |
+| Python | 1,042,756 | 64,828 | 195,038 | 4939 |
+| Tsx | 156,826 | 16,743 | 12,815 | 1142 |
+| Json | 94,243 | 0 | 2 | 194 |
 | TypeScript | 92,667 | 18,523 | 10,821 | 921 |
 | JavaScript | 6,390 | 380 | 242 | 16 |
 
@@ -32,37 +32,37 @@ Total: **1,400,249** lines of code across **7204** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.60.1` (2026-11-02)
+- **Latest**: `v0.61.0` (2026-11-13)
 - **Last commit**: 2026-11-13
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 8,130 · **Forks**: 1,013 · **Open issues**: 1,059 · **Contributors**: 241
+- **Stars**: 8,133 · **Forks**: 1,014 · **Open issues**: 1,070 · **Contributors**: 243
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 3991 · **Open PRs**: 216 · **Closed issues**: 884 · **Open issues**: 175 · **Commits**: 4021
+- **Releases**: 79 · **Merged PRs**: 4032 · **Open PRs**: 212 · **Closed issues**: 904 · **Open issues**: 166 · **Commits**: 4062
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 5 | 1209 | 133 | 276 | 105 | 1188 |
-| last60d | 2026-09-14 | 11 | 2321 | 172 | 547 | 156 | 2353 |
-| 90d | 2026-08-15 | 19 | 2776 | 207 | 651 | 164 | 2775 |
-| last180d | 2026-05-17 | 56 | 3847 | 214 | 863 | 171 | 3825 |
-| 360d | 2025-11-18 | 78 | 3991 | 216 | 884 | 175 | 4013 |
-| last720d | 2024-11-23 | 78 | 3991 | 216 | 884 | 175 | 4021 |
+| 30d | 2026-10-15 | 6 | 1173 | 120 | 258 | 89 | 1229 |
+| last60d | 2026-09-15 | 12 | 2355 | 168 | 567 | 147 | 2394 |
+| 90d | 2026-08-16 | 19 | 2793 | 203 | 670 | 155 | 2816 |
+| last180d | 2026-05-18 | 57 | 3882 | 210 | 883 | 162 | 3866 |
+| 360d | 2025-11-19 | 79 | 4032 | 212 | 904 | 166 | 4054 |
+| last720d | 2024-11-24 | 79 | 4032 | 212 | 904 | 166 | 4062 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [openapi.json](https://github.com/repowise-dev/repowise/releases/download/v0.60.1/openapi.json) | 1.2 MiB | `other` |
-| [repowise-0.60.1-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.60.1/repowise-0.60.1-py3-none-any.whl) | 8.5 MiB | `other` |
-| [repowise-0.60.1.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.60.1/repowise-0.60.1.tar.gz) | 7.1 MiB | `native/unknown` |
-| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.60.1/repowise-web.tar.gz) | 36.8 MiB | `native/unknown` |
+| [openapi.json](https://github.com/repowise-dev/repowise/releases/download/v0.61.0/openapi.json) | 1.2 MiB | `other` |
+| [repowise-0.61.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.61.0/repowise-0.61.0-py3-none-any.whl) | 8.9 MiB | `other` |
+| [repowise-0.61.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.61.0/repowise-0.61.0.tar.gz) | 7.5 MiB | `native/unknown` |
+| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.61.0/repowise-web.tar.gz) | 37.1 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for repowise lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:59:52Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:54:31Z._
