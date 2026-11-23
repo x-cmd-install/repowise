@@ -14,14 +14,14 @@ x install repowise
 
 ## Code insight
 
-Total: **1,488,228** lines of code across **7602** files in the top 5 languages.
+Total: **1,495,063** lines of code across **7623** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,113,267 | 68,412 | 209,041 | 5234 |
-| Tsx | 164,450 | 17,068 | 13,273 | 1180 |
-| Json | 97,145 | 0 | 2 | 212 |
-| TypeScript | 95,671 | 19,089 | 11,126 | 956 |
+| Python | 1,117,812 | 68,670 | 210,053 | 5248 |
+| Tsx | 166,172 | 17,195 | 13,366 | 1183 |
+| Json | 97,171 | 0 | 2 | 212 |
+| TypeScript | 96,210 | 19,217 | 11,187 | 960 |
 | JavaScript | 6,493 | 380 | 259 | 20 |
 
 ## Source
@@ -32,37 +32,37 @@ Total: **1,488,228** lines of code across **7602** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.61.0` (2026-11-13)
-- **Last commit**: 2026-11-22
+- **Latest**: `v0.62.0` (2026-11-22)
+- **Last commit**: 2026-11-23
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 8,196 · **Forks**: 1,050 · **Open issues**: 1,157 · **Contributors**: 266
+- **Stars**: 8,210 · **Forks**: 1,052 · **Open issues**: 1,157 · **Contributors**: 266
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 4370 · **Open PRs**: 234 · **Closed issues**: 978 · **Open issues**: 179 · **Commits**: 4402
+- **Releases**: 80 · **Merged PRs**: 4405 · **Open PRs**: 236 · **Closed issues**: 978 · **Open issues**: 179 · **Commits**: 4437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 1081 | 117 | 218 | 78 | 895 |
-| last60d | 2026-09-23 | 10 | 2508 | 184 | 595 | 154 | 2434 |
-| 90d | 2026-08-24 | 17 | 2943 | 209 | 692 | 165 | 2893 |
-| last180d | 2026-05-26 | 54 | 4201 | 231 | 953 | 175 | 4103 |
-| 360d | 2025-11-27 | 79 | 4370 | 234 | 978 | 179 | 4392 |
-| last720d | 2024-12-02 | 79 | 4370 | 234 | 978 | 179 | 4402 |
+| 30d | 2026-10-24 | 5 | 1070 | 107 | 215 | 75 | 930 |
+| last60d | 2026-09-24 | 11 | 2540 | 186 | 594 | 153 | 2469 |
+| 90d | 2026-08-25 | 18 | 2968 | 211 | 690 | 165 | 2928 |
+| last180d | 2026-05-27 | 55 | 4207 | 233 | 953 | 175 | 4138 |
+| 360d | 2025-11-28 | 80 | 4405 | 236 | 978 | 179 | 4427 |
+| last720d | 2024-12-03 | 80 | 4405 | 236 | 978 | 179 | 4437 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [openapi.json](https://github.com/repowise-dev/repowise/releases/download/v0.61.0/openapi.json) | 1.2 MiB | `other` |
-| [repowise-0.61.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.61.0/repowise-0.61.0-py3-none-any.whl) | 8.9 MiB | `other` |
-| [repowise-0.61.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.61.0/repowise-0.61.0.tar.gz) | 7.5 MiB | `native/unknown` |
-| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.61.0/repowise-web.tar.gz) | 37.1 MiB | `native/unknown` |
+| [openapi.json](https://github.com/repowise-dev/repowise/releases/download/v0.62.0/openapi.json) | 1.3 MiB | `other` |
+| [repowise-0.62.0-py3-none-any.whl](https://github.com/repowise-dev/repowise/releases/download/v0.62.0/repowise-0.62.0-py3-none-any.whl) | 9.6 MiB | `other` |
+| [repowise-0.62.0.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.62.0/repowise-0.62.0.tar.gz) | 8.0 MiB | `native/unknown` |
+| [repowise-web.tar.gz](https://github.com/repowise-dev/repowise/releases/download/v0.62.0/repowise-web.tar.gz) | 37.4 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for repowise lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:35:22Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:13:00Z._
