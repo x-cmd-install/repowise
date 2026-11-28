@@ -1,0 +1,309 @@
+about:
+  description: "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP."
+  license: AGPL-3.0
+  homepage: https://repowise.dev
+  head: 929094b
+  archived: false
+  latestVersion: "v0.62.0"
+  latestRelease: "v0.62.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:02:50Z
+timeline:
+  created: 2026-03-23
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-22
+  lastRelease: 2026-11-22
+  lastPrerelease: 
+popularity:
+  star: 8347
+  watcher: 34
+  fork: 1092
+  release: 80
+  contributor: 283
+  pullRequest: 5291
+  issue: 1239
+language:
+  Python: 57539096
+  TypeScript: 10974961
+  Tree-sitter Query: 209764
+  Jinja: 82570
+  CSS: 55845
+  JavaScript: 37240
+  Shell: 16760
+  Makefile: 4049
+  Dockerfile: 3916
+  Mako: 671
+totalBytes: 68924872
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 4
+    mergedPR: 1076
+    openPR: 135
+    closedIssue: 216
+    openIssue: 99
+    commit: 1169
+  last60d:
+    since: 2026-09-29
+    release: 10
+    mergedPR: 2633
+    openPR: 213
+    closedIssue: 635
+    openIssue: 177
+    commit: 2708
+  last90d:
+    since: 2026-08-30
+    release: 17
+    mergedPR: 3122
+    openPR: 239
+    closedIssue: 735
+    openIssue: 190
+    commit: 3167
+  last180d:
+    since: 2026-06-01
+    release: 50
+    mergedPR: 4390
+    openPR: 263
+    closedIssue: 997
+    openIssue: 201
+    commit: 4377
+  last360d:
+    since: 2025-12-03
+    release: 80
+    mergedPR: 4644
+    openPR: 266
+    closedIssue: 1034
+    openIssue: 205
+    commit: 4666
+  last720d:
+    since: 2024-12-08
+    release: 80
+    mergedPR: 4644
+    openPR: 266
+    closedIssue: 1034
+    openIssue: 205
+    commit: 4676
+total:
+  release: 80
+  mergedPR: 4644
+  openPR: 266
+  closedIssue: 1034
+  openIssue: 205
+  commit: 4676
+---
+path: /home/runner/.x-repo/github.com/repowise-dev/repowise
+collectedAt: 2026-11-28T09:03:06Z
+loc:
+  Python:
+    code: 1182278
+    comments: 71875
+    blanks: 221388
+    files: 5475
+  Tsx:
+    code: 158941
+    comments: 17036
+    blanks: 12728
+    files: 1133
+  Json:
+    code: 95229
+    comments: 0
+    blanks: 2
+    files: 190
+  TypeScript:
+    code: 81372
+    comments: 17735
+    blanks: 9221
+    files: 867
+  Scheme:
+    code: 3184
+    comments: 1905
+    blanks: 715
+    files: 27
+  Yaml:
+    code: 1523
+    comments: 110
+    blanks: 49
+    files: 30
+  Jinja2:
+    code: 1080
+    comments: 211
+    blanks: 189
+    files: 24
+  JavaScript:
+    code: 989
+    comments: 141
+    blanks: 122
+    files: 15
+  Go:
+    code: 678
+    comments: 85
+    blanks: 113
+    files: 20
+  Toml:
+    code: 677
+    comments: 134
+    blanks: 104
+    files: 16
+  Css:
+    code: 629
+    comments: 449
+    blanks: 125
+    files: 4
+  Ruby:
+    code: 445
+    comments: 11
+    blanks: 70
+    files: 33
+  CSharp:
+    code: 435
+    comments: 31
+    blanks: 95
+    files: 18
+  Java:
+    code: 433
+    comments: 59
+    blanks: 92
+    files: 21
+  VB6:
+    code: 394
+    comments: 0
+    blanks: 70
+    files: 7
+  Sh:
+    code: 340
+    comments: 118
+    blanks: 59
+    files: 12
+  Kotlin:
+    code: 240
+    comments: 11
+    blanks: 40
+    files: 15
+  Rust:
+    code: 231
+    comments: 19
+    blanks: 42
+    files: 8
+  Scala:
+    code: 221
+    comments: 16
+    blanks: 48
+    files: 6
+  Php:
+    code: 198
+    comments: 6
+    blanks: 36
+    files: 6
+  Cpp:
+    code: 161
+    comments: 10
+    blanks: 35
+    files: 8
+  Xml:
+    code: 155
+    comments: 0
+    blanks: 0
+    files: 7
+  Pascal:
+    code: 150
+    comments: 2
+    blanks: 31
+    files: 3
+  Dart:
+    code: 104
+    comments: 10
+    blanks: 23
+    files: 4
+  Dockerfile:
+    code: 91
+    comments: 41
+    blanks: 39
+    files: 3
+  Swift:
+    code: 90
+    comments: 6
+    blanks: 21
+    files: 4
+  MsBuild:
+    code: 77
+    comments: 3
+    blanks: 4
+    files: 9
+  Makefile:
+    code: 66
+    comments: 18
+    blanks: 33
+    files: 2
+  CppHeader:
+    code: 45
+    comments: 19
+    blanks: 19
+    files: 2
+  CHeader:
+    code: 41
+    comments: 3
+    blanks: 16
+    files: 4
+  Hcl:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 1
+  Ini:
+    code: 32
+    comments: 17
+    blanks: 14
+    files: 1
+  Perl:
+    code: 31
+    comments: 0
+    blanks: 4
+    files: 1
+  CMake:
+    code: 13
+    comments: 0
+    blanks: 1
+    files: 4
+  Lean:
+    code: 13
+    comments: 0
+    blanks: 7
+    files: 4
+  VisualStudioSolution:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  Zsh:
+    code: 6
+    comments: 4
+    blanks: 3
+    files: 1
+  Autoconf:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 41038
+    blanks: 10842
+    files: 224
+  Text:
+    code: 0
+    comments: 18163
+    blanks: 1356
+    files: 51
+total:
+  code: 1532784
+  comments: 169439
+  blanks: 257882
+  files: 8263
+---
+
+---
